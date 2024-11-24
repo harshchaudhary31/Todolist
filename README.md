@@ -27,4 +27,4 @@ A command-line application to manage daily tasks. Users can add, view, and mark 
    ```
 ## Screenshot
 
-![image](./image/ToDoList.png)
+![image](./image/TodoList.png)
