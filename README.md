@@ -1,7 +1,7 @@
 # To-Do List Application
 
 ## **Description**
-A command-line application to manage daily tasks. Users can add, view, and mark tasks as completed. Tasks persist between sessions.
+A GUI application to manage daily tasks. Users can add, view, and mark tasks as completed. Tasks persist between sessions.
 
 ---
 
